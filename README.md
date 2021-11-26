@@ -3,5 +3,5 @@
 Flutter Custom Navigation Drawer Demo.
 
 ## Screenshot
-<img scr="screenshot/sample_img1.png" width="300" height="600">
+<img src="./screenshot/sample_img1.png" width="300" height="600">
 
